@@ -16,3 +16,7 @@ User Interface design was gooten from the design team. Pages were developed usin
 
 
 JavaScript was then used to develop algorithms for the computation
+
+
+# After adding the 'About Us' page here is what it looks like 
+https://hisroyalwonginess.github.io/Teamnike-1/aboutUs.html
